@@ -1,1 +1,2 @@
 created new file
+fast-forwardbranchで編集
